@@ -6,7 +6,7 @@ from components.login import render_login_page
 
 st.set_page_config(
     page_title="NeST Digital Academy — Dashboard",
-    page_icon="📊",
+    page_icon="https://learning.nestdigital.com/pluginfile.php/1/theme_edash/main_logo/1771222660/LogoNeST.png",
     layout="wide",
     initial_sidebar_state="expanded",
 )
